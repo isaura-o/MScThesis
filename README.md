@@ -3,9 +3,9 @@ Master Thesis programs
 
 The folder contains:
 
-Midnight folder: Files (Analysis Toolbox) I wrote for the fMRI Midnight data analysis.
+    - Midnight folder: Files (Analysis Toolbox) I wrote for the fMRI Midnight data analysis.
                   
-SciRe folder: Files of another fMRI data analysis.
+    - SciRe folder: Files of another fMRI data analysis.
 
 
 

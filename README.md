@@ -1,6 +1,5 @@
 # MScThesis
-Master Thesis
-(Language: Matlab)
+Master Thesis programs
 
 Midnight folder: Contains the files (Analysis Toolbox) I wrote for the fMRI Midnight data analysis.
                   
